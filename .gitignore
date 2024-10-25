@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+.venv
+checkpoints
+metrics
+lightning_logs
+retina-blood-vessel-segmentation
